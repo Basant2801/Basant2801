@@ -1,4 +1,4 @@
-![logo](https://github.com/Basant2801/Basant2801/blob/main/Github%20Banner.png)
+![logo](https://github.com/Basant2801/Basant2801/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Basant Kumar</h1>
 <h3 align="center">A Data Analyst from India</h3>
 
